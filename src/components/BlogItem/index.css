@@ -1,0 +1,27 @@
+.main-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blog-card {
+    width: 60vw;
+    background-color: #FBEAEB;
+    padding: 16px;
+    border-radius: 8px;
+}
+.blog-details-container {
+    display: flex;
+    justify-content: space-between;
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: 500;
+}
+.blog-title {
+    font-size: 26px;
+}
+.blog-description {
+    font-family: roboto;
+    font-size: 16px;
+    text-align: justify;
+}

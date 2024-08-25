@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+.main-container {
+    background-color: #2f3c7e;
+    height: 100%;
+}
+.main-heading {
+    color: #ffffff;
+    font-size: 38px;
+    text-decoration: underline;
+    font-family: monospace;
+    font-weight: bold;
+}
+.blogs-list {
+    list-style-type: none;
+}
+.blog-item {
+    width: 60vw;
+    border-radius: 8px;
+    padding: 13px;
+    background-color: #ffffff;
+    margin-bottom: 10px;
+}
+
+.blog-title {
+    font-family: roboto;
+    font-size: 23px;
+    color: #2f3c7e;
+}
+.blogs-link {
+    font-family: roboto;
+    font-size: 16px;
+    text-decoration: none;
+    color: #2f3c7e;
+    text-align: right;
+}

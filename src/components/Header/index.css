@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px;
+    padding-left: 30px;
+    padding-right: 100px;
+    background-color: #FBEAEB;
+    height: 10vh;
+}
+
+.logo {
+    font-size: 30px;
+    color: #2f3c7e;
+}
+
+.nav-items-container {
+    display: flex;
+    flex-direction: row;
+}
+.nav-item {
+    margin-right: 20px;
+    color: #101820;
+    font-weight: 500;
+    font-size: 18px;
+}
