@@ -9,7 +9,7 @@ const Header = () => (
             <Link to='/'>
             <p className='nav-item'>Home</p>
             </Link>
-            <Link to='create'>
+            <Link to='/create'>
             <p className='nav-item'>Write a blog?</p>
             </Link>
         </div>
